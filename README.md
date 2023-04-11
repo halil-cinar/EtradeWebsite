@@ -16,7 +16,8 @@ ETradeWebsite is a web application being developed using React JavaScript, desig
 1. Clone the [GitHub repository](https://github.com/halil-cinar/ETradeWebsite) and download the source code of the application.
 2. Navigate to the project folder and install dependencies using a package manager such as npm or yarn.
 3. Run the application using a development server.
-4. Open a web browser and access the application at the specified local URL.
+4. Start the json files in the api folder with json-server to display the data in the application
+5. Open a web browser and access the application at the specified local URL.
 
 ## Usage
 
