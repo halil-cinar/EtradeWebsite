@@ -1,0 +1,594 @@
+{
+  "NavBarNotification": [
+    {
+      "notificationTitle": "Selam",
+      "notificationText": "selam hello vs..femlmelwmlmfmwmv",
+      "notificationImgId": "notificationImg"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "categoryId": 1,
+      "subcategoryId": 1,
+      "productName": "Chai2",
+      "title": "Chai2",
+      "brandName": "Halil",
+      "productDescription": "",
+      "unitPrice": 23,
+      "oldPrice": 28,
+      "currency": "TL",
+      "unitsInStock": 53,
+      "dealerId": "1",
+      "imgURLs": [
+        "https://picsum.photos/id/1/3000/2000",
+        "https://n11scdn.akamaized.net/a1/30/22/08/01/48/03/07/08/65/70/50/72/22/23437144898315374084.png",
+        "https://picsum.photos/id/11/3000/2000",
+        "https://picsum.photos/id/12/3000/2000",
+        "https://picsum.photos/id/13/3000/2000",
+        "https://picsum.photos/id/14/3000/2000",
+        "https://picsum.photos/id/15/3000/2000",
+        "https://picsum.photos/id/16/3000/2000"
+      ],
+      "specialBadge": "Selam",
+      "description": {
+        "html": "<h1> Ürün rengi kırmızı ve deridendir </h1> <img src='https://picsum.photos/400/400' > <h2>selam</h2> <video height='400px' src='https://images.hepsiburada.net/assets/videos/ProductVideos/HBCV00002C85MX.mp4' controls>"
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 3.5,
+        "reviews": [
+          {
+            "title": "Çok güzel ürün kullanıslı",
+            "text": "Harika bir tartı. Çok araştırdım. Gerçekten en iyisini aldığımı düşünüyorum. Uygulama bağlanması ve ölçümleri yapması bakımından çok kolay. Ölçümler doğru. İnşallah vereceğiz bu kiloları :)",
+            "ratingValue": 5,
+            "userId": "1",
+            "date": "27 Ağustos 2022, Cumartesi"
+          },
+          {
+            "title": "Çok güzel ürün kullanıslı",
+            "text": "İyi paketlenmişti, siparişin ertesi günü teslim aldım. geldiğinde şarjı yoktu ancak sorun değil.telefona app indirdikten sonra kolayca bluetooth eşlemesi oldu, hemen sonucumuzu öğrendik. bu kadar detayı bilmesi bizi çok etkiledi. Çok memnun kaldık. Umarım hemen arızalanmaz. tek endişem bu. Ancak kesinlikle şuan için performans fiyat olarak beklentimin üzerinde diyebilirim. Kilo kontrolü yapanlara tavsiyemdir.",
+            "ratingValue": 4.5,
+            "userId": "2",
+            "date": "28 Ağustos 2022, Cumartesi"
+          }
+        ]
+      },
+      "shipping": {
+        "cargoText": "Ücretsiz Kargo"
+      }
+    },
+    {
+      "id": "3",
+      "categoryId": 2,
+      "subcategoryId": 1,
+      "productName": "Chai2 ürünü",
+      "title": "Chai2",
+      "brandName": "Halil",
+      "productDescription": "",
+      "unitPrice": 28,
+      "oldPrice": "",
+      "currency": "TL",
+      "unitsInStock": 53,
+      "dealerId": "1",
+      "imgURLs": [
+        "https://picsum.photos/id/1/3000/2000",
+        "https://n11scdn.akamaized.net/a1/30/22/08/01/48/03/07/08/65/70/50/72/22/23437144898315374084.png",
+        "https://picsum.photos/id/11/3000/2000",
+        "https://picsum.photos/id/12/3000/2000",
+        "https://picsum.photos/id/13/3000/2000",
+        "https://picsum.photos/id/14/3000/2000",
+        "https://picsum.photos/id/15/3000/2000",
+        "https://picsum.photos/id/16/3000/2000"
+      ],
+      "specialBadge": "Selam",
+      "description": {
+        "html": "<h1> Ürün rengi kırmızı ve deridendir </h1> <img src='https://picsum.photos/400/400' > <h2>selam</h2> <video height='400px' src='https://images.hepsiburada.net/assets/videos/ProductVideos/HBCV00002C85MX.mp4' controls>"
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 3.5,
+        "reviews": [
+          {
+            "title": "Çok güzel ürün kullanıslı",
+            "text": "Harika bir tartı. Çok araştırdım. Gerçekten en iyisini aldığımı düşünüyorum. Uygulama bağlanması ve ölçümleri yapması bakımından çok kolay. Ölçümler doğru. İnşallah vereceğiz bu kiloları :)",
+            "ratingValue": 5,
+            "userId": "1",
+            "date": "27 Ağustos 2022, Cumartesi"
+          },
+          {
+            "title": "Çok güzel ürün kullanıslı",
+            "text": "İyi paketlenmişti, siparişin ertesi günü teslim aldım. geldiğinde şarjı yoktu ancak sorun değil.telefona app indirdikten sonra kolayca bluetooth eşlemesi oldu, hemen sonucumuzu öğrendik. bu kadar detayı bilmesi bizi çok etkiledi. Çok memnun kaldık. Umarım hemen arızalanmaz. tek endişem bu. Ancak kesinlikle şuan için performans fiyat olarak beklentimin üzerinde diyebilirim. Kilo kontrolü yapanlara tavsiyemdir.",
+            "ratingValue": 4.5,
+            "userId": "2",
+            "date": "28 Ağustos 2022, Cumartesi"
+          }
+        ]
+      },
+      "shipping": {
+        "cargoText": "Ücretsiz Kargo"
+      }
+    },
+    {
+      "id": "4",
+      "categoryId": 1,
+      "subcategoryId": 1,
+      "productName": "Chai2 ürünü",
+      "title": "Chai2",
+      "brandName": "Halil",
+      "productDescription": "",
+      "unitPrice": 28,
+      "oldPrice": "",
+      "currency": "TL",
+      "unitsInStock": 53,
+      "dealerId": "1",
+      "imgURLs": [
+        "https://picsum.photos/id/1/3000/2000",
+        "https://n11scdn.akamaized.net/a1/30/22/08/01/48/03/07/08/65/70/50/72/22/23437144898315374084.png",
+        "https://picsum.photos/id/11/3000/2000",
+        "https://picsum.photos/id/12/3000/2000",
+        "https://picsum.photos/id/13/3000/2000",
+        "https://picsum.photos/id/14/3000/2000",
+        "https://picsum.photos/id/15/3000/2000",
+        "https://picsum.photos/id/16/3000/2000"
+      ],
+      "specialBadge": "Selam",
+      "description": {
+        "html": "<h1> Ürün rengi kırmızı ve deridendir </h1> <img src='https://picsum.photos/400/400' > <h2>selam</h2> <video height='400px' src='https://images.hepsiburada.net/assets/videos/ProductVideos/HBCV00002C85MX.mp4' controls>"
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 3.5,
+        "reviews": [
+          {
+            "title": "Çok güzel ürün kullanıslı",
+            "text": "Harika bir tartı. Çok araştırdım. Gerçekten en iyisini aldığımı düşünüyorum. Uygulama bağlanması ve ölçümleri yapması bakımından çok kolay. Ölçümler doğru. İnşallah vereceğiz bu kiloları :)",
+            "ratingValue": 5,
+            "userId": "1",
+            "date": "27 Ağustos 2022, Cumartesi"
+          },
+          {
+            "title": "Çok güzel ürün kullanıslı",
+            "text": "İyi paketlenmişti, siparişin ertesi günü teslim aldım. geldiğinde şarjı yoktu ancak sorun değil.telefona app indirdikten sonra kolayca bluetooth eşlemesi oldu, hemen sonucumuzu öğrendik. bu kadar detayı bilmesi bizi çok etkiledi. Çok memnun kaldık. Umarım hemen arızalanmaz. tek endişem bu. Ancak kesinlikle şuan için performans fiyat olarak beklentimin üzerinde diyebilirim. Kilo kontrolü yapanlara tavsiyemdir.",
+            "ratingValue": 4.5,
+            "userId": "2",
+            "date": "28 Ağustos 2022, Cumartesi"
+          }
+        ]
+      },
+      "shipping": {
+        "cargoText": "Ücretsiz Kargo"
+      }
+    },
+    {
+      "id": "5",
+      "categoryId": 1,
+      "subcategoryId": 1,
+      "productName": "Chai2 ürünü",
+      "title": "Chai2",
+      "brandName": "Halil",
+      "productDescription": "",
+      "unitPrice": 28000,
+      "oldPrice": "32000",
+      "currency": "TL",
+      "unitsInStock": 53,
+      "dealerId": "1",
+      "imgURLs": [
+        "https://picsum.photos/id/1/3000/2000",
+        "https://n11scdn.akamaized.net/a1/30/22/08/01/48/03/07/08/65/70/50/72/22/23437144898315374084.png",
+        "https://picsum.photos/id/11/3000/2000",
+        "https://picsum.photos/id/12/3000/2000",
+        "https://picsum.photos/id/13/3000/2000",
+        "https://picsum.photos/id/14/3000/2000",
+        "https://picsum.photos/id/15/3000/2000",
+        "https://picsum.photos/id/16/3000/2000"
+      ],
+      "specialBadge": "Selam",
+      "description": {
+        "html": "<h1> Ürün rengi kırmızı ve deridendir </h1> <img src='https://picsum.photos/400/400' > <h2>selam</h2> <video height='400px' src='https://images.hepsiburada.net/assets/videos/ProductVideos/HBCV00002C85MX.mp4' controls>"
+      },
+      "rating": {
+        "ratingCount": 10,
+        "ratingValue": 3.5,
+        "reviews": [
+          {
+            "title": "Çok güzel ürün kullanıslı",
+            "text": "Harika bir tartı. Çok araştırdım. Gerçekten en iyisini aldığımı düşünüyorum. Uygulama bağlanması ve ölçümleri yapması bakımından çok kolay. Ölçümler doğru. İnşallah vereceğiz bu kiloları :)",
+            "ratingValue": 5,
+            "userId": "1",
+            "date": "27 Ağustos 2022, Cumartesi"
+          },
+          {
+            "title": "Çok güzel ürün kullanıslı",
+            "text": "İyi paketlenmişti, siparişin ertesi günü teslim aldım. geldiğinde şarjı yoktu ancak sorun değil.telefona app indirdikten sonra kolayca bluetooth eşlemesi oldu, hemen sonucumuzu öğrendik. bu kadar detayı bilmesi bizi çok etkiledi. Çok memnun kaldık. Umarım hemen arızalanmaz. tek endişem bu. Ancak kesinlikle şuan için performans fiyat olarak beklentimin üzerinde diyebilirim. Kilo kontrolü yapanlara tavsiyemdir.",
+            "ratingValue": 4.5,
+            "userId": "2",
+            "date": "28 Ağustos 2022, Cumartesi"
+          }
+        ]
+      },
+      "shipping": {
+        "cargoText": "Ücretsiz Kargo"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Moda",
+      "seoUrl": "Moda",
+      "imgId": "1",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 2,
+      "categoryName": "Moda",
+      "seoUrl": "Moda",
+      "imgId": "1",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 3,
+      "categoryName": "Moda",
+      "seoUrl": "Moda",
+      "imgId": "1",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 4,
+      "categoryName": "Moda",
+      "seoUrl": "Moda",
+      "imgId": "1",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 5,
+      "categoryName": "Moda",
+      "seoUrl": "Moda",
+      "imgId": "1",
+      "imgURL": ""
+    },
+    {
+      "id": 6,
+      "categoryName": "Moda",
+      "seoUrl": "Moda",
+      "imgId": "1",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": 1,
+      "categoryName": "Ayakkabı & Çanta",
+      "categoryDescription": "Ayakkabı & Çanta",
+      "seoUrl": "Ayakkabı Çanta",
+      "categoryId": 1,
+      "imgId": "2",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 2,
+      "categoryName": "Kadın Giyim & Aksesuar",
+      "categoryDescription": "Kadın Giyim & Aksesuar",
+      "seoUrl": "Kadın Giyim & Aksesuar",
+      "categoryId": 1,
+      "imgId": "2",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 3,
+      "categoryName": "Erkek Giyim & Aksesuar",
+      "categoryDescription": "Erkek Giyim & Aksesuar",
+      "seoUrl": "Erkek Giyim & Aksesuar",
+      "categoryId": 2,
+      "imgId": "2",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 4,
+      "categoryName": "Erkek Giyim & Aksesuar",
+      "categoryDescription": "Erkek Giyim & Aksesuar",
+      "seoUrl": "Erkek Giyim & Aksesuar",
+      "categoryId": 2,
+      "imgId": "2",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 5,
+      "categoryName": "Erkek Giyim & Aksesuar",
+      "categoryDescription": "Erkek Giyim & Aksesuar",
+      "seoUrl": "Erkek Giyim & Aksesuar",
+      "categoryId": 2,
+      "imgId": "2",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 6,
+      "categoryName": "Erkek Giyim & Aksesuar",
+      "categoryDescription": "Erkek Giyim & Aksesuar",
+      "seoUrl": "Erkek Giyim & Aksesuar",
+      "categoryId": 2,
+      "imgId": "2",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 7,
+      "categoryName": "Erkek Giyim & Aksesuar",
+      "categoryDescription": "Erkek Giyim & Aksesuar",
+      "seoUrl": "Erkek Giyim & Aksesuar",
+      "categoryId": 2,
+      "imgId": "2",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": 8,
+      "categoryName": "Erkek Giyim & Aksesuar",
+      "categoryDescription": "Erkek Giyim & Aksesuar",
+      "seoUrl": "Erkek Giyim & Aksesuar",
+      "categoryId": 2,
+      "imgId": "2",
+      "imgURL": "https://picsum.photos/id/12/3000/2000"
+    }
+  ],
+  "imgUrls": [
+    {
+      "id": "1",
+      "imgURL": "https://n11scdn.akamaized.net/a1/30/22/08/01/48/03/07/08/65/70/50/72/22/23437144898315374084.png"
+    },
+    {
+      "id": "2",
+      "imgURL": "https://n11scdn.akamaized.net/a1/70/22/06/23/70/14/45/40/15/05/61/03/02/33066774272835498939.png"
+    },
+    {
+      "id": "notificationImg",
+      "imgURL": "https://n11scdn.akamaized.net/a1/org/23/02/08/60/40/43/39/51/02/21/07/51/27150790799302150169.jpg"
+    }
+  ],
+  "bannerSlider": {
+    "slides": [
+      {
+        "id": 1,
+        "src": "https://picsum.photos/id/123/1200/400",
+        "altText": "Slide 1",
+        "caption": "Slide 1",
+        "href": ""
+      },
+      {
+        "id": 2,
+        "src": "https://picsum.photos/id/124/1200/400",
+        "altText": "Slide 2",
+        "caption": "Slide 2",
+        "href": ""
+      },
+      {
+        "id": 3,
+        "src": "https://picsum.photos/id/125/1200/400",
+        "altText": "Slide 3",
+        "caption": "Slide 3",
+        "href": ""
+      },
+      {
+        "id": 4,
+        "src": "https://picsum.photos/id/126/1200/400",
+        "altText": "Slide 4",
+        "caption": "Slide 4",
+        "href": ""
+      }
+    ]
+  },
+  "specialProducts": [
+    {
+      "id": "1",
+      "productId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": "2",
+      "productId": 2,
+      "categoryId": 1
+    },
+    {
+      "id": "3",
+      "productId": 3,
+      "categoryId": 1
+    },
+    {
+      "id": "4",
+      "productId": 2,
+      "categoryId": 1
+    },
+    {
+      "id": "5",
+      "productId": 4,
+      "categoryId": 1
+    },
+    {
+      "id": "6",
+      "productId": 5,
+      "categoryId": 1
+    }
+  ],
+  "userInfo": [
+    {
+      "id": "1",
+      "name": "Halil Çınar",
+      "addressList": [
+        {
+          "id": "2",
+          "address": "Güneykent mah. 102235.sokak 9/15 Şahinbey Gaziantep",
+          "name": "Halil",
+          "surname": "Cınar",
+          "title": "Çınar",
+          "phoneNumber": "+905516788916",
+          "city": "Gaziantep",
+          "cityId": "27",
+          "district": "Şahinbey",
+          "neighborhood": "Esentepe Mah.",
+          "locality": "Burç"
+        },
+        {
+          "address": "",
+          "name": "Halilaaaa",
+          "surname": "Çınar",
+          "title": "",
+          "phoneNumber": "+905516788916",
+          "city": "Gaziantep",
+          "cityId": "27",
+          "district": "Nurdağı",
+          "neighborhood": "",
+          "locality": ""
+        },
+        {
+          "id": "1",
+          "title": "Halil Çınar",
+          "country": "Türkiye",
+          "city": "kayseri",
+          "cityId": "",
+          "district": "Melikgazi",
+          "locality": "semt",
+          "neighborhood": "asdfg mah.",
+          "address": "kayseri/Türkiye",
+          "name": "Halil Çınar",
+          "surname": "Çınar",
+          "phoneNumber": "02536987415"
+        }
+      ],
+      "phoneNumber": "02536987415",
+      "favoriteList": {
+        "productIds": [
+          "1",
+          1,
+          "3",
+          "5",
+          "2",
+          "4"
+        ]
+      }
+    }
+  ],
+  "publicUserInfo": [
+    {
+      "id": "1",
+      "name": "Halil Çınar"
+    }
+  ],
+  "dealers": [
+    {
+      "id": "1",
+      "userId": "1",
+      "companyName": "Store",
+      "foundationDate": "12/12/2023",
+      "address": "Türkiye",
+      "ratingValue": 3.5,
+      "deliveryOptions": [
+        {
+          "id": "1",
+          "deliveryType": "Standart Teslimat",
+          "deliveryTime": "3 gün",
+          "freightRate": "",
+          "deliveryCompanyName": "Aras Kargo",
+          "deliveryCompanyImgUrl": "https://images.hepsiburada.net/assets/cargo-logo/21.jpg"
+        }
+      ]
+    }
+  ],
+  "conceptPromotions": [
+    {
+      "id": "1",
+      "imgURL": "https://picsum.photos/id/12/3000/2000",
+      "color": "#123",
+      "productIds": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "brandIds": [
+        "2",
+        "3",
+        "1",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "id": "2",
+      "imgURL": "https://picsum.photos/id/14/3000/2000",
+      "color": "#321",
+      "productIds": [
+        "2"
+      ],
+      "brandIds": [
+        "2"
+      ]
+    },
+    {
+      "id": "3",
+      "imgURL": "https://picsum.photos/id/16/3000/2000",
+      "color": "#103",
+      "productIds": [
+        "2",
+        "3"
+      ],
+      "brandIds": [
+        "2",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "id": "4",
+      "imgURL": "https://picsum.photos/id/12/3000/2000",
+      "color": "#123",
+      "productIds": [
+        "2",
+        "3"
+      ],
+      "brandIds": [
+        "2",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "id": "5",
+      "imgURL": "https://picsum.photos/id/12/3000/2000",
+      "color": "#123",
+      "productIds": [
+        "2",
+        "3"
+      ],
+      "brandIds": [
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "brands": [
+    {
+      "id": "1",
+      "name": "Halil Çınar",
+      "logoURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": "2",
+      "name": "Halil Çınar",
+      "logoURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": "3",
+      "name": "Halil Çınar",
+      "logoURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": "4",
+      "name": "Halil Çınar",
+      "logoURL": "https://picsum.photos/id/12/3000/2000"
+    },
+    {
+      "id": "5",
+      "name": "Halil Çınar",
+      "logoURL": "https://picsum.photos/id/12/3000/2000"
+    }
+  ]
+}
