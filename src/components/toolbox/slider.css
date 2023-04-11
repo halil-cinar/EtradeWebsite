@@ -1,0 +1,22 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: #3b3b3b;
+  }
+  
+  .slick-slide {
+    margin: 0 10px;
+    text-align: center;
+  }
+  .slider-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .slick-slider {
+    max-width: 100%;
+    margin: 0;
+  }
+    

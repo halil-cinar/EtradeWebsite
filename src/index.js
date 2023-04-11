@@ -1,13 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "alertifyjs/build/css/alertify.min.css";
+import "./style.css"
+import "./components/navi/style.css"
+import App from './components/root/App';
 import reportWebVitals from './reportWebVitals';
-
+import configureStore from './redux/store/configureStore';
+import { Provider } from 'react-redux';
+import { BrowserRouter } from 'react-router-dom';
+import  "./components/product/style.css"
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const store=configureStore()
 root.render(
+  
   <React.StrictMode>
-    <App />
+    <BrowserRouter><Provider store={store}> <App /></Provider></BrowserRouter>  
   </React.StrictMode>
 );
 

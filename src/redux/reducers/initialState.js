@@ -1,0 +1,20 @@
+export default {
+  cart: [],
+  productList: [],
+  categoryList: [],
+  productCategoryList: [],
+  navbarNotification: [],
+  subcategories: [],
+  imgList:[],
+  bannerSlides:{slides:[]},
+  specialProducts:[],
+  favoriteList:{},
+  userInfo:{},
+  windowSize:{width:0,height:0},
+  currentProduct:{},
+  publicUserInfos:[],
+  cart:[],
+  conceptPromotions:[],
+  paymentInformation:{},
+  listedProducts:[]
+};

@@ -1,0 +1,23 @@
+<span
+                  style={{
+                    height: "25px",
+                    background: "white",
+                    position: "absolute",
+                    paddingLeft:"5px",
+                    width: 25+110-this.props.product.rating.ratingValue*22+"px",
+                    transform: "translateX(-"+(110-this.props.product.rating.ratingValue*22)+"px)",
+                  }}
+                > {"   (" + this.props.product.rating.ratingCount + ")"}</span>{" "}
+
+
+
+                <CardSlider
+                colCount={4}
+                slide={{ slides: [<ProductCard product={this.product} />] }}
+                controlButtonStyle={{right:"5vw"}}
+              />
+
+               <CardSlider
+            slide={{ slides: this.props.specialProducts.map(item=>(<ProductCard product={item}/>)) }}
+            colCount={6}
+          />
