@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# ETradeWebsite
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ETradeWebsite is a web application being developed using React JavaScript, designed to be a multi-seller e-commerce platform where users can make purchases from multiple sellers.
 
-## Available Scripts
+## Features (in progress)
 
-In the project directory, you can run:
+- Browse and search for products from different sellers.
+- View product details and add products to the shopping cart.
+- Proceed to checkout and make payments.
+- View and manage shopping cart items.
+- Home page, category pages, and product detail pages.
+- Responsive design for seamless use on different devices.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the [GitHub repository](https://github.com/halil-cinar/ETradeWebsite) and download the source code of the application.
+2. Navigate to the project folder and install dependencies using a package manager such as npm or yarn.
+3. Run the application using a development server.
+4. Open a web browser and access the application at the specified local URL.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+- Browse and search for products from different sellers.
+- Add products to the shopping cart and proceed to checkout.
+- Register and login as a user to place orders and manage your account.
+- Responsive design for seamless use on different devices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Contact
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For any questions, suggestions, or feedback, please feel free to contact me:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[GitHub](https://github.com/halil-cinar)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Email](mailto:halilcinar1260@gmail.com)
 
-### `npm run eject`
+## Acknowledgements
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project uses open source libraries and resources, and I would like to express my gratitude to the developers and contributors of those projects.
